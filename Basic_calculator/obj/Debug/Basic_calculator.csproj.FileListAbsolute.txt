@@ -1,0 +1,15 @@
+C:\Users\beive\Desktop\Udemy Projects\C#\Wpf\Basic_calculator\Basic_calculator\obj\Debug\Basic_calculator.csprojAssemblyReference.cache
+C:\Users\beive\Desktop\Udemy Projects\C#\Wpf\Basic_calculator\Basic_calculator\obj\Debug\App.g.cs
+C:\Users\beive\Desktop\Udemy Projects\C#\Wpf\Basic_calculator\Basic_calculator\obj\Debug\Basic_calculator_MarkupCompile.cache
+C:\Users\beive\Desktop\Udemy Projects\C#\Wpf\Basic_calculator\Basic_calculator\bin\Debug\Basic_calculator.exe.config
+C:\Users\beive\Desktop\Udemy Projects\C#\Wpf\Basic_calculator\Basic_calculator\bin\Debug\Basic_calculator.exe
+C:\Users\beive\Desktop\Udemy Projects\C#\Wpf\Basic_calculator\Basic_calculator\bin\Debug\Basic_calculator.pdb
+C:\Users\beive\Desktop\Udemy Projects\C#\Wpf\Basic_calculator\Basic_calculator\obj\Debug\MainWindow.g.cs
+C:\Users\beive\Desktop\Udemy Projects\C#\Wpf\Basic_calculator\Basic_calculator\obj\Debug\Basic_calculator_MarkupCompile.lref
+C:\Users\beive\Desktop\Udemy Projects\C#\Wpf\Basic_calculator\Basic_calculator\obj\Debug\MainWindow.baml
+C:\Users\beive\Desktop\Udemy Projects\C#\Wpf\Basic_calculator\Basic_calculator\obj\Debug\Basic_calculator.g.resources
+C:\Users\beive\Desktop\Udemy Projects\C#\Wpf\Basic_calculator\Basic_calculator\obj\Debug\Basic_calculator.Properties.Resources.resources
+C:\Users\beive\Desktop\Udemy Projects\C#\Wpf\Basic_calculator\Basic_calculator\obj\Debug\Basic_calculator.csproj.GenerateResource.cache
+C:\Users\beive\Desktop\Udemy Projects\C#\Wpf\Basic_calculator\Basic_calculator\obj\Debug\Basic_calculator.csproj.CoreCompileInputs.cache
+C:\Users\beive\Desktop\Udemy Projects\C#\Wpf\Basic_calculator\Basic_calculator\obj\Debug\Basic_calculator.exe
+C:\Users\beive\Desktop\Udemy Projects\C#\Wpf\Basic_calculator\Basic_calculator\obj\Debug\Basic_calculator.pdb
