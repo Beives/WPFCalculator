@@ -33,10 +33,8 @@ namespace Basic_calculator
         }
         private void DotButton_Click(object sender, RoutedEventArgs e)
         {
-            if (!resultLabel.Content.ToString().Contains("."))
-            {
-                resultLabel.Content = $"{resultLabel.Content}.";
-            }
+            if (!resultLabel.Content.ToString().Contains(","))
+                resultLabel.Content = $"{resultLabel.Content},";
         }
         private void EqualButton_Click(object sender, RoutedEventArgs e)
         {

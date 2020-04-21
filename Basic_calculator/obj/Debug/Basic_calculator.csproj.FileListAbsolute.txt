@@ -13,3 +13,4 @@ C:\Users\beive\Desktop\Udemy Projects\C#\Wpf\Basic_calculator\Basic_calculator\o
 C:\Users\beive\Desktop\Udemy Projects\C#\Wpf\Basic_calculator\Basic_calculator\obj\Debug\Basic_calculator.csproj.CoreCompileInputs.cache
 C:\Users\beive\Desktop\Udemy Projects\C#\Wpf\Basic_calculator\Basic_calculator\obj\Debug\Basic_calculator.exe
 C:\Users\beive\Desktop\Udemy Projects\C#\Wpf\Basic_calculator\Basic_calculator\obj\Debug\Basic_calculator.pdb
+C:\Users\beive\Desktop\Udemy Projects\C#\Wpf\Basic_calculator\Basic_calculator\obj\Debug\App.baml
